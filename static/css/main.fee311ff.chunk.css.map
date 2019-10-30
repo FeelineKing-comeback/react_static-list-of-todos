@@ -1,0 +1,1 @@
+{"version":3,"sources":["normalize.css","table.scss","table.css"],"names":[],"mappings":"AAAA,KACE,QACF,CCFA,MACE,UAAS,CACV,wBCCD,CAEA,MDCC,eAAA,CCCC,YAAa,CDCb,WAAK,CACL,qBCCF,CAEA,GDCC,kBCCD,CAEA,SDCC,kBCCD,CAEA,WDCC,kBCCD","file":"main.fee311ff.chunk.css","sourcesContent":["body {\n  margin: 5;\n}\n",null,null]}
